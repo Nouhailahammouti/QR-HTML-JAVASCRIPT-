@@ -1,6 +1,6 @@
 # QR-HTML-JAVASCRIPT-
-Creat a QR code by Html and Javacript
-1
+1-Creat a QR code by Html and Javacript
+
 
 
 
